@@ -1,5 +1,5 @@
 ### Hello, World 👋
 
-- Name: Vikram S. Negi
-- Age: 21
-- Working on building a personal-website
+- 🪄 Name: Vikram S. Negi
+- 🌱 Age: 21
+- 🔭 I'm currently working on building a personal-website with a custom markdown compiler
