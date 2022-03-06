@@ -2,4 +2,4 @@
 
 - 🪄 Name: Vikram S. Negi
 - 🌱 Age: 21
-- 🔭 Learning ReactJS
+- 🔭 Currently I'm learning ReactJS
