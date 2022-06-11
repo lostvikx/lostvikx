@@ -1,6 +1,5 @@
-### Hello, World 👋
+### Hi, My name is Vikram Negi 👋
 
-- 🪄 Name: Vikram S. Negi
 - 🌱 Age: 21
 - 🔭 Currently I'm learning Data Analytics with Python
 - 🗿 Future Task: Introduction to AI Course
