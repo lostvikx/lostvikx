@@ -1,8 +1,8 @@
 ### 'Tis Vikram Negi 👋
 
-- 🌱 Age: 21
+- 🌱 Age: 22
 - 🔭 Currently I'm learning Python for Data Analysis
-- 🗿 Future Task: Reddisyte project 🐛
-- 🚀 Connect: [LinkedIn](https://www.linkedin.com/in/vikram-singh-negi/) | [Twitter](https://twitter.com/lostvikx) | vikram.s.negi@proton.me
+- 🗿 Future Task: Learn Machine Learning
+- 🚀 Connect: vikram.s.negi@proton.me | [LinkedIn](https://www.linkedin.com/in/vikram-singh-negi/) | [Twitter](https://twitter.com/lostvikx)
 
 You can find some of my cool projects below 👇
